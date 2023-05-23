@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**maykowww/maykowww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### NOW
 
-Here are some ideas to get you started:
+- Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### BIO
+
+- ⚙️ I use daily: `.tsx`, `.js`, `.dart`, `.ts`, `.go`
+- 🌍 I'm mostly active within the **Node.js Community**
+- 🌱 Learning all about **Open Source** and **Software Development**
+- 💬 Ping me about **Node.js**, **Go**, **flutter**, **development**
+- 📫 Reach me: [linkedin.com](https://www.linkedin.com/in/maykowvictor)
+- ⚡️ Fun fact: I'm a huge fan of Lord of the Rings
